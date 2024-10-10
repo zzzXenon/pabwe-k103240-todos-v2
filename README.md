@@ -1,6 +1,6 @@
 # React + Vite
 
-<div align="center" border-radius="3">
+<div align="center" border-radius=10px>
   <img src="https://github.com/user-attachments/assets/0e7afb33-9ccc-4376-92f0-504b2d6247b6" width="75%" height="75%" >
 </div>
 
